@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Android Challenge</string>
+    <string name="warning">Warning</string>
+    <string name="Ok">OK</string>
+    <string name="sign_in_to_meditation_App">Sign in to MeditationApp</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="continue_button">Continue</string>
+    <string name="meditations">Meditations</string>
+    <string name="stories">Stories</string>
+    <string name="empty_data_error">There is problem with the data please try again</string>
+    <string name="banner_text">Look. Pretty, isn’t it %1$s? Perfectly balanced. As all things should be.</string>
+    <string name="password_rule">Password should consist minimum 6 characters with at least 1 uppercase character, 1 number</string>
+    <string name="username_rule">Username must be longer than two characters</string>
+    <string name="meditation_detail">Meditation Detail</string>
+    <string name="stroy_detail">Story Detail</string>
 </resources>
